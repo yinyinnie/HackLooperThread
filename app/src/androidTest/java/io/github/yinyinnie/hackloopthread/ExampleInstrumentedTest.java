@@ -1,4 +1,4 @@
-package cn.onlinecache.hackloopthread;
+package io.github.yinyinnie.hackloopthread;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

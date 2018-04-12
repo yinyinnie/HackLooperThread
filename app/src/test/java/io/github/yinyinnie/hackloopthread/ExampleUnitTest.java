@@ -1,7 +1,6 @@
-package cn.onlinecache.hackloopthread;
+package io.github.yinyinnie.hackloopthread;
 
 import org.junit.Test;
-
 import static org.junit.Assert.*;
 
 /**
